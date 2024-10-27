@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMultiAccount", "UserMultiAccount\UserMultiAccount.csproj", "{43875E3E-243F-42D6-8F45-62EFC60E2232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserMultiAccount", "UserMultiAccount\UserMultiAccount.csproj", "{43875E3E-243F-42D6-8F45-62EFC60E2232}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankMultiAccOOP", "BankMultiAccOOP\BankMultiAccOOP.csproj", "{43169757-7C38-4181-9611-351A8A04F142}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FamilyApp", "..\FamilyOOP\App\FamilyApp.csproj", "{FDC3EC13-7079-4F05-ADD8-D549C71CCD8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametersApp", "..\PrimitiveExercose\ConsoleApp1\ParametersApp.csproj", "{184A57AB-D085-4CA5-B316-F31DA542103C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminWorkerManagement", "..\Worker Management\AdminWorkerManagement\AdminWorkerManagement.csproj", "{5D41A916-B265-4BC2-A421-3DC0AD070601}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminWorkerManagementV2", "..\Worker Management\AdminWorkerManagerV2\AdminWorkerManagementV2.csproj", "{A2ED3F6A-5660-4702-8605-9AB86A806612}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccMono", "..\BankAccountMono\Account\AccMono.csproj", "{BB5D91FD-C42B-4085-8DE2-B2F617010A52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{43875E3E-243F-42D6-8F45-62EFC60E2232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43875E3E-243F-42D6-8F45-62EFC60E2232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43875E3E-243F-42D6-8F45-62EFC60E2232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43169757-7C38-4181-9611-351A8A04F142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43169757-7C38-4181-9611-351A8A04F142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43169757-7C38-4181-9611-351A8A04F142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43169757-7C38-4181-9611-351A8A04F142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC3EC13-7079-4F05-ADD8-D549C71CCD8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC3EC13-7079-4F05-ADD8-D549C71CCD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC3EC13-7079-4F05-ADD8-D549C71CCD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC3EC13-7079-4F05-ADD8-D549C71CCD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184A57AB-D085-4CA5-B316-F31DA542103C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184A57AB-D085-4CA5-B316-F31DA542103C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184A57AB-D085-4CA5-B316-F31DA542103C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184A57AB-D085-4CA5-B316-F31DA542103C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D41A916-B265-4BC2-A421-3DC0AD070601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D41A916-B265-4BC2-A421-3DC0AD070601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D41A916-B265-4BC2-A421-3DC0AD070601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D41A916-B265-4BC2-A421-3DC0AD070601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2ED3F6A-5660-4702-8605-9AB86A806612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2ED3F6A-5660-4702-8605-9AB86A806612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2ED3F6A-5660-4702-8605-9AB86A806612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2ED3F6A-5660-4702-8605-9AB86A806612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5D91FD-C42B-4085-8DE2-B2F617010A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5D91FD-C42B-4085-8DE2-B2F617010A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5D91FD-C42B-4085-8DE2-B2F617010A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5D91FD-C42B-4085-8DE2-B2F617010A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
